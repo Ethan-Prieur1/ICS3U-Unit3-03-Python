@@ -19,7 +19,7 @@ def main():
         print("You Were Correct! Hooray! You're Lucky!")
     else:
         print("You Were Incorrect! You Fool! You Blundered!")
-
+    print("\nDone.")
 
 if __name__ == "__main__":
     main()
